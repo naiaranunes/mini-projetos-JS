@@ -1,2 +1,3 @@
-# mini-projetos-JS
- 10 projetos com Js
+##
+10 mini-projetos utilizando HTML/CSS/JavaScript🤗
+##
